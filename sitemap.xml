@@ -2,24 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <url>
         <loc>
-            https://kikiroki.github.io/404
-        </loc>
-        <lastmod>
-            2026-01-30T09:22:11.662Z
-        </lastmod>
-        <changefreq>
-            daily
-        </changefreq>
-        <priority>
-            1.0
-        </priority>
-    </url>
-    <url>
-        <loc>
             https://kikiroki.github.io/isl-qa
         </loc>
         <lastmod>
-            2026-01-30T09:22:11.662Z
+            2026-01-30T09:27:31.765Z
         </lastmod>
         <changefreq>
             daily
@@ -33,7 +19,7 @@
             https://kikiroki.github.io/isl-qa/intimacy
         </loc>
         <lastmod>
-            2026-01-30T09:22:11.662Z
+            2026-01-30T09:27:31.765Z
         </lastmod>
         <changefreq>
             daily
@@ -47,7 +33,7 @@
             https://kikiroki.github.io/isl-qa/blessing
         </loc>
         <lastmod>
-            2026-01-30T09:22:11.662Z
+            2026-01-30T09:27:31.765Z
         </lastmod>
         <changefreq>
             daily
@@ -61,7 +47,7 @@
             https://kikiroki.github.io/isl-qa/event/1
         </loc>
         <lastmod>
-            2026-01-30T09:22:11.662Z
+            2026-01-30T09:27:31.765Z
         </lastmod>
         <changefreq>
             daily
@@ -75,7 +61,7 @@
             https://kikiroki.github.io/isl-qa/event/2
         </loc>
         <lastmod>
-            2026-01-30T09:22:11.662Z
+            2026-01-30T09:27:31.765Z
         </lastmod>
         <changefreq>
             daily
@@ -89,7 +75,7 @@
             https://kikiroki.github.io/isl-qa/event/3
         </loc>
         <lastmod>
-            2026-01-30T09:22:11.662Z
+            2026-01-30T09:27:31.765Z
         </lastmod>
         <changefreq>
             daily
@@ -103,7 +89,7 @@
             https://kikiroki.github.io/isl-qa/event/4
         </loc>
         <lastmod>
-            2026-01-30T09:22:11.662Z
+            2026-01-30T09:27:31.765Z
         </lastmod>
         <changefreq>
             daily
@@ -117,7 +103,7 @@
             https://kikiroki.github.io/isl-qa/event/5
         </loc>
         <lastmod>
-            2026-01-30T09:22:11.662Z
+            2026-01-30T09:27:31.765Z
         </lastmod>
         <changefreq>
             daily
@@ -131,7 +117,7 @@
             https://kikiroki.github.io/isl-qa/event/6
         </loc>
         <lastmod>
-            2026-01-30T09:22:11.662Z
+            2026-01-30T09:27:31.765Z
         </lastmod>
         <changefreq>
             daily
@@ -145,7 +131,7 @@
             https://kikiroki.github.io/isl-qa/event/7
         </loc>
         <lastmod>
-            2026-01-30T09:22:11.662Z
+            2026-01-30T09:27:31.765Z
         </lastmod>
         <changefreq>
             daily
@@ -159,7 +145,7 @@
             https://kikiroki.github.io/isl-qa/event/8
         </loc>
         <lastmod>
-            2026-01-30T09:22:11.662Z
+            2026-01-30T09:27:31.765Z
         </lastmod>
         <changefreq>
             daily
